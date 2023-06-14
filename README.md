@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hello! i'm nix, a new software developer 🐦
+
+this account is like 3 years old because i registered and then never did anything meaningful with it.
